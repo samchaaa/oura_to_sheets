@@ -11,10 +11,10 @@ Uses [oura-ring](https://github.com/hedgertronic/oura-ring) wrapper for Oura API
 ## Usage
 
 1. Set up prerequisites
-  1. Get Oura API key
-  2. Set up Google Sheet
-  3.  Make Google Cloud service account, download .json key
-  4.  Share sheet with service account
+    1. Get Oura API key
+    2. Set up Google Sheet
+    3.  Make Google Cloud service account, download .json key
+    4.  Share sheet with service account
 2.  Populate `config.py` with your information.
 
 ```
