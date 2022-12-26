@@ -10,13 +10,12 @@ Uses [oura-ring](https://github.com/hedgertronic/oura-ring) wrapper for Oura API
 
 ## Usage
 
-1.) Set up prerequisites
-  a.) Get Oura API key
-  b.) Set up Google Sheet
-  c.) Make Google Cloud service account, download .json key
-  d.) Share sheet with service account
-
-2.) Populate `config.py` with your information.
+1. Set up prerequisites
+1. Get Oura API key
+2. Set up Google Sheet
+3.  Make Google Cloud service account, download .json key
+4.  Share sheet with service account
+2.  Populate `config.py` with your information.
 
 ```
 # Oura API key
@@ -35,4 +34,4 @@ tab_name = 'data'
 days = 30
 ```
 
-3.) Run `python update_sheets.py` or run `notebook.ipynb`
+3. Run `python update_sheets.py` or run `notebook.ipynb`
