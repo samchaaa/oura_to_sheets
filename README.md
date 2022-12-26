@@ -1,8 +1,8 @@
 # oura_to_sheets
 Quick code snippets for:
-a.) Requesting data from Oura API
-b.) Transforming in python
-c.) Pushing to Google Sheets
+1. Requesting data from Oura API
+2. Transforming in python
+3. Pushing to Google Sheets
 
 Uses [oura-ring](https://github.com/hedgertronic/oura-ring) wrapper for Oura API requests, and [gspread](https://github.com/burnash/gspread) for Google Sheets.
 
