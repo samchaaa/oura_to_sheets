@@ -6,6 +6,8 @@ Quick code snippets for:
 
 Uses [oura-ring](https://github.com/hedgertronic/oura-ring) wrapper for Oura API requests, and [gspread](https://github.com/burnash/gspread) for Google Sheets.
 
+Verbose explanation to come in article.
+
 
 
 ## Usage
